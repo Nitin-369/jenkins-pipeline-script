@@ -1,3 +1,6 @@
+// hello All this is to show ypu what is declarative pipeline
+// every declarative pipeline starts with pipeline
+
 pipeline {
     agent any 
     stages {
